@@ -26,5 +26,10 @@ https://cncnet.org/red-alert
 
 Available via Steam
 
+## Amiga
+
+### Secret of Monkey Island 2
+
+https://www.lemonamiga.com/games/docs.php?id=1407
 
 
