@@ -14,6 +14,7 @@ Eduke32 should permit controlller remapping:
 
 https://wiki.eduke32.com/wiki/Frequently_Asked_Questions
 
+RedNukem might have Internet play?
 
 ### Red Alert 2
 
