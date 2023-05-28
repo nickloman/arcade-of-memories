@@ -10,11 +10,17 @@ Shareware Duke Nukem works in DOSBox but cannot map controls easily.
 
 Full version of Duke Nukem 3D from Zoom $5.99: https://www.zoom-platform.com/product/duke-nukem-3d-atomic-edition
 
-Eduke32 should permit controlller remapping:
+Running through Eduke32:
 
-https://wiki.eduke32.com/wiki/Frequently_Asked_Questions
+  * native Windows support
+  * allows controller remapping: https://wiki.eduke32.com/wiki/Frequently_Asked_Questions
+  * gives mouselook support but actually prefer original keyboard controls (cursor keys, fire, jump, open)
 
-RedNukem might have Internet play?
+Controls:
+  * joystick - cursors
+  * button1 - fire
+  * button2 - jump
+  * button3 - open/use
 
 ### Red Alert 2
 
