@@ -38,4 +38,13 @@ Available via Steam
 
 https://www.lemonamiga.com/games/docs.php?id=1407
 
+## Sega Dreamcast
+
+Demule for emulator. Run directly from Launchbox. Only games that use the digital cursors rather than the analogue stick are going to work well.
+
+### Soulcalibur
+
+
+
+
 
