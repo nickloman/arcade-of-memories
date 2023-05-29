@@ -22,7 +22,15 @@ Controls:
   * button2 - jump
   * button3 - open/use
 
+### Quake/Quake 2
+
+This plays pretty well without much hassle via the Steam version with jacked up sensitivity on the trackball. The main flaw with this and Quake 2 is that you can do WASD either with the joystick or with the buttons, but there is no comfortable place for the fire button. I found a video about a company that had made a QuakeWorld cabinet and they had put a button to the bottom left of the trackball for fire, which I think would work quite well but will need an additional hole drilling!
+
+It would work OK if you didn't use mouselook more like Duke Nukem 3D but this is generally too lame/inconsistent with how we used to play Quake/Quake 2.
+
 ### Red Alert 2
+
+This requires a reasonable number of hotkeys to play comfortably, not sure if it's adaptable to a cabinet.
 
 Available for free via: 
 https://cncnet.org/red-alert
