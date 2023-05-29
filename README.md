@@ -6,17 +6,10 @@ Notes on setting up a definitive nostalgic arcade machine
 
 ### Duke Nukem 3D
 
-Shareware Duke Nukem works in DOSBox but cannot map controls easily. 
+Original DOS Duke Nukem works in DOSBox but cannot map controls easily (actually you can do this via the utility programme). Atomic edition can be bought from Zoom $5.99: https://www.zoom-platform.com/product/duke-nukem-3d-atomic-edition
 
-Full version of Duke Nukem 3D from Zoom $5.99: https://www.zoom-platform.com/product/duke-nukem-3d-atomic-edition
+Easiest to run through Eduke32 which gives native Windows support and permits controller remapping from the menu. Eduke32 also gives mouselook support but I think it's better to play with the original 2.5D mode using just keyboard controls (cursor keys, fire, jump, open) but mapped to the cabinet:
 
-Running through Eduke32:
-
-  * native Windows support
-  * allows controller remapping: https://wiki.eduke32.com/wiki/Frequently_Asked_Questions
-  * gives mouselook support but actually prefer original keyboard controls (cursor keys, fire, jump, open)
-
-Controls:
   * joystick - cursors
   * button1 - fire
   * button2 - jump
