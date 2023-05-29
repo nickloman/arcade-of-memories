@@ -47,7 +47,7 @@ Available via Steam
 - [ ] Barbarian 2
 - [ ] Xenon 2
 - [ ] Marble Madness
-- [ ] Speedball
+- [ ] Speedball 2
 - [ ] R-Type
 - [ ] IK+
 - [ ] Prince of Persia
