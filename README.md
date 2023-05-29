@@ -35,6 +35,26 @@ Available via Steam
 
 ## Amiga
 
+### TODO
+
+- [ ] Secret of monkey island
+- [ ] Monkey Island 2
+- [ ] Pinball Fantasies
+- [ ] Dune 2
+- [ ] New Zealand Story
+- [ ] Chuckie Egg
+
+- [ ] Barbarian 2
+- [ ] Xenon 2
+- [ ] Marble Madness
+- [ ] Speedball
+- [ ] R-Type
+- [ ] IK+
+- [ ] Prince of Persia
+- [ ] Lemmings
+- [ ] Pinball Dreams
+- [ ] Worms - too many keyboard controls
+
 ### Secret of Monkey Island 2
 
 https://www.lemonamiga.com/games/docs.php?id=1407
