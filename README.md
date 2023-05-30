@@ -1,6 +1,11 @@
 # arcade-of-memories
 Notes on setting up a definitive nostalgic arcade machine
 
+General principles:
+
+  * only games that we used to play when we were growing up that evoke certain nostalgia! Not just because they are on some 'best of...' list.
+  * generally controllable through the cabinet controls (joystick, buttons and trackball) - should not need to revert to keyboard except in very rare cases
+  * two player games favoured over single player
 
 ## PC Games
 
