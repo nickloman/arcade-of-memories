@@ -6,8 +6,6 @@ I've focused only on games that evoke some particular memory - eschewing popular
 
 But I have probably forgotten some, and these can be added later!
 
-Rob and Chris have helped me curate this list with some of their memories.
-
 So, in chronological order
 
 ## Amstrad CPC 464
@@ -132,3 +130,8 @@ I've included gun holsters for lightguns for a future upgrade!
 
 The keyboard escape key is mapped to simultaneous press of P1 start and Coin, so use that to exit any games or go back from any menus.
 
+## General Info
+
+ The cabinet is decorated using photos by Hanah (thanks Hannah!) and contains a Ryzen 7 gaming PC designed to be completely silent and low power consumption running Windows 11. There are externally mounted volume controls (click the wheel to mute).
+ 
+ 
