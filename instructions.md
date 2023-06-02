@@ -80,7 +80,7 @@ We spent a lot of centimes on both these guys, plus down at the Pier Arcade.
 
 ### Bubble Bobble
 
-What to say? I think we actually used to play this on Amiga, but the original arcade version is better so I've used that.
+What to say? I think we actually used to play this on Amiga, but the original arcade version is better so I've used that. Now although you always used to routinely beat my high score, I do note that I don't think you've ever completed the game?? Now's your chance!
 
 ### World Rally
 
@@ -94,7 +94,7 @@ I've put a few classic games.
 
 ### Street Fighter 2 Turbo, Tekken, Mortal Kombat
 
-What to say really? Obligatory.
+What to say really? Obligatory and still fun. 
 
 ## Dreamcast
 
@@ -106,7 +106,7 @@ Surely one of the best two player beat 'em ups ever made (perhaps the best?). Th
 
 ## PC
 
-Where it all started .... 
+Where it all started .... sneaking down after bedtime to play some LAN and hoping not to get caught!
 
 ### Duke Nukem 3D
 
