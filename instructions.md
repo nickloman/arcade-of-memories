@@ -1,20 +1,16 @@
 # Rauper 40 Arcade
 
-The Rauper 40 arcade is a heavily customised arcade rig designed to take you through your childhood memories of gaming, right up to present day!
+The Rauper 40 arcade is a heavily customised arcade rig designed to take you through your childhood memories of gaming, right up to present day! Featuring a 27-inch LED screen, a Ryzen 7 5700G APU onboard PC, dual Sanwa controls and a trackball this baby can handle anything - and I mean anything - you can throw at it.
 
-I've focused only on games that evoke some particular memory - eschewing popular choices for games that have emotional meaning.
+I've tried to focus specifically on games that evoke some particular memory - hopefully for you - eschewing the most choices for those games that evoke a particular nostalgia.
 
-But I have probably forgotten some, and these can be added later!
+Anya has helped with beta testing the cabinet to ensure playability. Hannah did the artwork!
 
-So, in chronological order
+I have probably forgotten some key games, and these can be added later!
 
 ## Amstrad CPC 464
 
 Released in 1984, I think we got one of these in 1985 (when you were 2). But you probably remember this one?
-
-### Marble Madness
-
-Control the marble down the maze with the trackball!
 
 ### Chuckie Egg
 
@@ -26,15 +22,17 @@ There are a few other games like Knight Lore, Roland on the Ropes and Sabre Wolf
 
 Released in 1987, we got one around 1988 and I know you remember a few of these.
 
-### Secret of Monkey Island 2
+### Monkey Island 2: LeChuck's Revenge
 
-One of the great adventure games although all the Ron Gilbert/Tim Schafer games are available. Playable with the in built trackball, this has aged well and works perfectly. Use the escape key to access the load save menu.
+One of the great adventure games although most of the SCUMM engine Ron Gilbert/Tim Schafer games are available too if you have a penchant.
 
-### Pinball Fantasies
+Playable with the in built trackball, this has aged well - Anya is into it! Use the escape key to access the load/save/quit menu. 
+
+### Pinball Fantasies
 
 Do you remember this one? The circus table featured P U K E lights at the top.
 
-### New Zealand Story
+### New Zealand Story
 
 I remember we used to play this a lot. Who can forget this loveable little fella?
 
@@ -60,7 +58,7 @@ I think I got sent a free Sega Megadrive when reviewing games for The Indy, but 
 
 Choose the dwarf with an axe, the tall knight, or the woman. 
 
-### Ghosts 'n' Ghouls
+### Ghosts 'n Ghouls
 
 A pretty fast side scroller.
 
@@ -112,15 +110,17 @@ Where it all started .... sneaking down after bedtime to play some LAN and hopin
 
 As this was a keyboard shooter the controls map pretty well to the joystick and buttons. Mouselook wasn't really a thing back then, and though I've used a Windows sourceport here for maximum resolution I suggest it's best keeping it off. 
 
-Next step is to work out how to LAN my cabinet with yours for deathmatch!
+Next step is to work out how to LAN my cabinet with yours for deathmatch.
 
-### Quake / Quake 2
+### Quake and Quake 2
 
-Included for completeness really - probably still best played on PC with keyboard and mouse but how could I not put them on? The trackball is almost an acceptable substitute for mouse though so you can have some fun with it. 
+![image](https://github.com/nickloman/arcade-of-memories/assets/116577/1c5a3612-fd49-408e-87e8-c1ac3b05acaa)
 
-Likewise, I did try Red Alert 2 and Total Annihilation but it's hard to make them work on arcade mode. 
+Included for completeness really - still best played on a desktop PC with keyboard and mouse but how could I not put these on?
 
-## Modern
+The trackball is almost an acceptable substitute for mouse though so you can have some fun with it.  Likewise, I did try Red Alert 2 and Total Annihilation but games like this really need a keyboard (there is a keyboard though if you really need it!). 
+
+## Modern Games
 
 I've included Street Fighter 6 as it just came out and looks pretty epic (hat tip to Alex D).
 
@@ -134,6 +134,7 @@ The keyboard escape key is mapped to simultaneous press of P1 start and Coin, so
 
 ## General Info
 
- The cabinet is decorated using photos by Hanah (thanks Hannah!) and contains a Ryzen 7 gaming PC designed to be completely silent and low power consumption running Windows 11. There are externally mounted volume controls (click the wheel to mute).
+The cabinet is decorated using photos by Hanah (thanks Hannah!) and contains a Ryzen 7 gaming PC designed to be completely silent and low power consumption running Windows 11. There are externally mounted volume controls (click the wheel to mute).
  
- 
+# Happy 40th Birthday!
+
