@@ -2,6 +2,8 @@
 
 The Rauper 40 arcade is a heavily customised arcade rig designed to take you through your childhood memories of gaming, right up to present day! Featuring a 27-inch LED screen, a Ryzen 7 5700G APU onboard PC, dual Sanwa controls and a trackball this baby can handle anything - and I mean anything - you can throw at it.
 
+![image](https://github.com/nickloman/arcade-of-memories/assets/116577/fd9b56ed-9039-4af8-887a-75288fa9f8fa)
+
 I've tried to focus specifically on games that evoke some particular memory - hopefully for you - eschewing the most choices for those games that evoke a particular nostalgia.
 
 Anya has helped with beta testing the cabinet to ensure playability. Hannah did the artwork!
