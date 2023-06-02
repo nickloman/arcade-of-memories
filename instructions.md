@@ -98,7 +98,7 @@ What to say really? Obligatory and still fun.
 
 ## Dreamcast
 
-Props to Rob for reminding me that you had a Dreamcast! I don't really remember so I'm glad he reminded me because ....
+Props to Rob for reminding me that you had a Dreamcast! I don't really remember so I'm glad he reminded me because probably the most fun game to play on a cab is ....
 
 ### Soulcalbur
 
