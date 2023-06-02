@@ -84,6 +84,8 @@ What to say? I think we actually used to play this on Amiga, but the original ar
 
 Chris has strong memories of you playing this one on the ferry on a school trip. Playable with the stick but next job is an arcade conversion with a steering wheel....
 
+![image](https://github.com/nickloman/arcade-of-memories/assets/116577/b7798114-b790-4bab-aa38-c7e7315034c1)
+
 ### Simpsons
 
 I don't think we used to play this but I think Kerri said it was one of her favourites, and it's actually really good so I've put it on.  Don't forget to try all the different controls.
