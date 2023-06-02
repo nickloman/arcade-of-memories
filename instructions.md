@@ -12,7 +12,7 @@ So, in chronological order
 
 ## Amstrad CPC 464
 
-Released in 1984, I think we got one of these in 1985 (when you were 2). But you probably remember this one:
+Released in 1984, I think we got one of these in 1985 (when you were 2). But you probably remember this one?
 
 ### Marble Madness
 
@@ -30,7 +30,7 @@ Released in 1987, we got one around 1988 and I know you remember a few of these.
 
 ### Secret of Monkey Island 2
 
-One of the great adventure games (although all the Ron Gilbert/Tim Schafer games are available). Playable with the in-built trackball, this has aged well and works perfectly. Use the escape key to access the load/save menu.
+One of the great adventure games although all the Ron Gilbert/Tim Schafer games are available. Playable with the in built trackball, this has aged well and works perfectly. Use the escape key to access the load save menu.
 
 ### Pinball Fantasies
 
