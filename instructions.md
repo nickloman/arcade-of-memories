@@ -86,13 +86,11 @@ Chris has strong memories of you playing this one on the ferry on a school trip.
 
 ### Simpsons
 
-I don't think we used to play this but I think Kerri said it was one of her favourites, and it's actually really good so I've put it on.  Don't forget to try all the different controls.
-
-I've put a few classic games.
+I don't think we used to play this but I think Kerri said it was one of her favourites, and it's actually really good so I've put it on. Make sure you find all the hidden moves. Ditto NBA Jam which I have no memory of but is a stone cold banger.
 
 ### Street Fighter 2 Turbo, Tekken, Mortal Kombat
 
-What to say really? Obligatory and still fun. 
+What to say really? Obligatory on a coin-op, and still fun. 
 
 ## Dreamcast
 
