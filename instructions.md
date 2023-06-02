@@ -36,13 +36,15 @@ Do you remember this one? The circus table featured P U K E lights at the top.
 
 ### New Zealand Story
 
-I remember we used to play this a lot. Who can forget this loveable little fella?
+I seem to remember we used to play this a lot. Who can forget this loveable little fella?
 
-![image](https://github.com/nickloman/arcade-of-memories/assets/116577/1f41123b-8798-4967-bff3-4fc73010209b)
+![image](https://github.com/nickloman/arcade-of-memories/assets/116577/35ed81f1-ef5d-4e9c-9201-ccb41f97036e)
 
 ### Speedball 2
 
-Futuristic man-machine football, this plays well still as a two player.
+Futuristic man-machine football from The Bitmap Brothers, this plays well still as a two player.
+
+![image](https://github.com/nickloman/arcade-of-memories/assets/116577/86f0b469-e6cc-40cd-bc41-9546c95b4c7f)
 
 ### R-Type
 
@@ -50,23 +52,23 @@ Although more famously an arcade game, we definitely used to play this side-scro
 
 ### Lemmings
 
-Oh no! This was a good one.
+"Oh no!" This was a good one we used to play in my bedroom .... 
 
 ## Sega Megadrive
 
-I think I got sent a free Sega Megadrive when reviewing games for The Indy, but I can't really remember many games that we played on it, except:
+We definitely had a Sega Megadrive,  but I can't really remember many games that we played on it, except:
 
-### Goldenaxe
+### Golden Axe
 
-Choose the dwarf with an axe, the tall knight, or the woman. 
+Choose the dwarf with an axe, the tall knight, or the woman.  
 
 ### Ghosts 'n Ghouls
 
-A pretty fast side scroller.
+![image](https://github.com/nickloman/arcade-of-memories/assets/116577/16820e1c-2809-4538-92e2-ac5e4188d1c4)
 
 ### Sonic
 
-The OG Sonic.
+The OG Sonic, unbettered surely.
 
 ## Coin-op
 
@@ -86,7 +88,7 @@ Chris has strong memories of you playing this one on the ferry on a school trip.
 
 ![image](https://github.com/nickloman/arcade-of-memories/assets/116577/b7798114-b790-4bab-aa38-c7e7315034c1)
 
-### Simpsons
+### The Simpsons
 
 I don't think we used to play this but I think Kerri said it was one of her favourites, and it's actually really good so I've put it on. Make sure you find all the hidden moves. Ditto NBA Jam which I have no memory of but is a stone cold banger.
 
@@ -108,7 +110,9 @@ Where it all started .... sneaking down after bedtime to play some LAN and hopin
 
 ### Duke Nukem 3D
 
-As this was a keyboard shooter the controls map pretty well to the joystick and buttons. Mouselook wasn't really a thing back then, and though I've used a Windows sourceport here for maximum resolution I suggest it's best keeping it off. 
+Come get some! Apart from q2dm1 we can't have played any level as much as Hollywood Holocaust.
+
+As this was a keyboard only shooter the controls still map pretty well to the cabinet joystick and buttons. Mouselook wasn't really a thing back then, and though I've used a Windows sourceport here for maximum resolution I suggest it's best keeping it off. 
 
 Next step is to work out how to LAN my cabinet with yours for deathmatch.
 
@@ -122,9 +126,9 @@ The trackball is almost an acceptable substitute for mouse though so you can hav
 
 ## Modern Games
 
-I've included Street Fighter 6 as it just came out and looks pretty epic (hat tip to Alex D).
+I've decided to include Street Fighter 6 as it just came out and looks pretty epic (hat tip to Alex D). Also Nidhogg is quite fun.
 
-Did I forget some? Probably - but there are countless thousands of ROMs on the hard drive so it's easy enough to get anything going!
+What did I forget? Plenty, probably - but there are countless thousands of ROMs on the hard drive so it's easy enough to get anything going!
 
 I've included gun holsters for lightguns for a future upgrade!
 
