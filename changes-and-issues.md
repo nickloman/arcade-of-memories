@@ -2,6 +2,10 @@
 
 ## Changelog
 
+### Sat 22 July 2023
+
+* Set attract mode volume and attract mode navigation volume to 0% (via Options/Sounds)
+
 ### Sat 1 July 2023
 
 * Added Duke Nukem 3D:Atomic Edition (eDuke32)
