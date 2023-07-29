@@ -80,6 +80,11 @@ Works fine.
 
 System soecific ROMs available from https://archive.org/download/demul07_2017/2_demul_roms_11-11-2017/
 
+## Namco
+
+### Time Crisis 2
+
+via PCSX2. Only single player works well (split screen gun sight calibration is off). Needs 4:3 aspect ratio for decent aiming.
 
 
 
