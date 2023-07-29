@@ -5,6 +5,7 @@
 ### Sat 29 July 2023
 
 * Removed Dolphin Derby background music!
+* updated Launchbox to 13.6
 
 ### Sat 22 July 2023
 
