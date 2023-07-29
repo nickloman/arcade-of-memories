@@ -80,6 +80,8 @@ Works fine.
 
 System soecific ROMs available from https://archive.org/download/demul07_2017/2_demul_roms_11-11-2017/
 
+Launch demulshooter via Launchbox using additional apps on a per game basis
+
 ## Namco
 
 ### Time Crisis 2
