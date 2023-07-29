@@ -2,6 +2,10 @@
 
 ## Changelog
 
+### Sat 29 July 2023
+
+* Removed Dolphin Derby background music!
+
 ### Sat 22 July 2023
 
 * Set attract mode volume and attract mode navigation volume to 0% (via Options/Sounds)
