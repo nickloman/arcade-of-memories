@@ -74,6 +74,13 @@ Flicking on load can be solved by disabling full-screen optimisations.
 
 Works fine.
 
+## Sega Naomi
+
+### hotd2
+
+System soecific ROMs available from https://archive.org/download/demul07_2017/2_demul_roms_11-11-2017/
+
+
 
 
 
