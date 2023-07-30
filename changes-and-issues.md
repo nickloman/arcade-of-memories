@@ -2,10 +2,15 @@
 
 ## Changelog
 
+### Sun 30 July 2023
+
+* added tc2
+
 ### Sat 29 July 2023
 
 * Removed Dolphin Derby background music!
 * updated Launchbox to 13.6
+* added hotd2
 
 ### Sat 22 July 2023
 
