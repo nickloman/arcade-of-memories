@@ -22,5 +22,7 @@
 
 ### Issues
 
+* need to remove mouse cursor for hotd2 with nomousy
+* reshade banner - either widescreen mode or play with reshade
 * P1 button 6 and P2 button 6 as mouse clicks need mapping for MAME
 
