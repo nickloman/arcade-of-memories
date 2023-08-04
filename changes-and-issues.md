@@ -2,6 +2,12 @@
 
 ## Changelog
 
+### Fri 4 Aug 2023
+
+* add nomousy to lightgun games
+* hotd2: demul in 16:9 mode, demulshooter add -widescreen and -noinput option
+
+
 ### Sun 30 July 2023
 
 * added tc2
