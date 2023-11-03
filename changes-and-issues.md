@@ -2,6 +2,11 @@
 
 ## Changelog
 
+### Fri 3 Nov 2023
+
+* update Launchbox to 13.8
+* do daily reboot at 4am
+  
 ### Fri 4 Aug 2023
 
 * add nomousy to lightgun games
