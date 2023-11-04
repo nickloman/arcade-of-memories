@@ -2,6 +2,10 @@
 
 ## Changelog
 
+### Sat 4 Nov 2023
+
+* remap P2 SW6 to 'K' (from right click)
+
 ### Fri 3 Nov 2023
 
 * update Launchbox to 13.8
